@@ -21,5 +21,6 @@
 - [Bug-Reports for "Quick filters" for 101hotels.com](https://github.com/lockbird/Bug-Reports-for-Quick-filters-for-101hotels.com.git)
 - [Bug-Reports for https://heyheyjude.github.io/english-for-testers/](https://github.com/lockbird/Bug-Reports-for-https-heyheyjude.github.io-english-for-testers-.git)
 - [Checklist for mybox.ru and Mybox mobile app](https://github.com/lockbird/Checklist-for-mybox.ru-and-Mybox-mobile-app.git)
+- [Postman Collections](https://github.com/lockbird/Postman-Collections.git)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lockbird&show_icons=true&theme=radical)
