@@ -18,5 +18,6 @@
 # Testing Documentation
 - [Checklist and Bug-Reports for app Pregnancy Baby Tracker](https://github.com/lockbird/Checklist-and-Bug-Reports-for-app-Pregnancy-Baby-Tracker.git)
 - [Checklist and Test-Cases for the "Messages. News" functionality for the E-QUEO app](https://github.com/lockbird/Checklist-and-Test-Cases-for-the-Messages.-News-functionality-for-the-E-QUEO-app.git)
+- [Bug-Reports for "Quick filters" for 101hotels.com](https://github.com/lockbird/Bug-Reports-for-Quick-filters-for-101hotels.com.git)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lockbird&show_icons=true&theme=radical)
