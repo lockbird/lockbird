@@ -16,4 +16,4 @@
 ![MANUAL_QA_ENGINEER](https://img.shields.io/badge/-MANUAL_QA_ENGINEER-090909?style=for-the-badge&logo=HAND)
 
 ### Testing Documentation
-- [Checklist and Bug-Reports for app amma Pregnancy Baby Tracker](https://github.com/lockbird/Checklist-and-Bug-Reports-for-app-amma-Pregnancy-Baby-Tracker.git)
+- [Checklist and Bug-Reports for app Pregnancy Baby Tracker](https://github.com/lockbird/Checklist-and-Bug-Reports-for-app-Pregnancy-Baby-Tracker.git)
