@@ -17,3 +17,5 @@
 
 ### Testing Documentation
 - [Checklist and Bug-Reports for app Pregnancy Baby Tracker](https://github.com/lockbird/Checklist-and-Bug-Reports-for-app-Pregnancy-Baby-Tracker.git)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lockbird&show_icons=true&theme=radical)
